@@ -3,7 +3,7 @@ from sklearn.base import BaseEstimator, TransformerMixin
 from pandas import DataFrame
 from sklearn.preprocessing import MultiLabelBinarizer
 import numpy as np
-
+import pickle
 
 class DummyClassifier:
     def __init__(self, n=100):
@@ -80,3 +80,19 @@ class MultiHotEncoder(BaseEstimator, TransformerMixin):
 
         result = np.concatenate(result, axis=1)
         return result
+
+def load_model(pkl_filename):
+    try:
+        with open(pkl_filename, 'rb') as file:
+            pickle_model = pickle.load(file)
+        return pickle_model
+    except FileNotFoundError as e:
+        return
+    except Exception as e:
+        print(e)
+        return
+    
+def save_model(model, pkl_filename):
+    with open(pkl_filename, 'wb') as file:
+        pickle.dump(model, file)
+    return 
