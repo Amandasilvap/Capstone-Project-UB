@@ -12,6 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - Alejandro Chaqués
 - Amanda da Silva Pinto
 - Pablo Cebriá Cortina
+```
 
 ### Team Members
 
