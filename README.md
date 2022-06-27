@@ -8,6 +8,7 @@ Final Project of University of Barcelona
 - Pablo Cebriá Cortina - https://github.com/pabcebco
 
 ## Project
+We have one Datasets.zip with all datasets and another one **Code** with the final Notebook
 
 ### Sumary
 
