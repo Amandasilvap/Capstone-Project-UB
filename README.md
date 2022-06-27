@@ -55,7 +55,7 @@ Another of the methods that we evaluated was to give a prediction of the 23,691 
 
 It should be noted that, despite the fact that the notebook includes multiple feature engineering elements, for the final modeling it has been decided to leave all these elements out of the train. This decision has been made based on the limitations established at the beginning regarding the hardware necessary to process the available datasets.
 
-For more details see GitHub Repository [Capstone Project](https://github.com/Amandasilvap/Capstone-Project-UB/blob/main/Code/Capstone_final.ipynb).
+For more details see GitHub Repository [Capstone Project](https://github.com/Amandasilvap/Capstone-Project-UB/blob/main/Code/Capstone_final.ipynb) or our [GitHub Page] (https://amandasilvap.github.io/Capstone-Project-UB/).
 
 ### Conclusions
 
