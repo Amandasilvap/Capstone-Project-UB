@@ -3,9 +3,9 @@ Final Project of University of Barcelona
 
 
 ## Team Members
-- Alejandro Chaqués 
-- Amanda da Silva Pinto
-- Pablo Cebriá Cortina
+- Alejandro Chaqués  - https://github.com/janoxakes
+- Amanda da Silva Pinto - https://github.com/Amandasilvap
+- Pablo Cebriá Cortina - https://github.com/pabcebco
 
 ## Project
 
